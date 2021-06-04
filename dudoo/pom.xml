@@ -13,7 +13,7 @@
   		<java.source>1.8</java.source>
         <java.target>1.8</java.target>
         <file.encoding>UTF-8</file.encoding>
-		<apache.http.client.version>4.5.5</apache.http.client.version>
+		<apache.http.client.version>4.5.13</apache.http.client.version>
 		<apache.http.core.version>4.4.9</apache.http.core.version>
 		<jsoup.version>1.11.3</jsoup.version>
 		<slf4j.version>1.7.25</slf4j.version>
